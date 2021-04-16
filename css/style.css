@@ -1,0 +1,55 @@
+body{
+  text-align:center;
+  font-family:Open Sans,sans-serif;
+  background-color:rgb(139 195 74);
+  color:#ffffff;
+  margin: 0px;
+}
+
+
+h2{
+  color:#2a0074;
+  font-weight: normal;
+}
+
+.titulo-verde{
+  color: #2a0074;
+}
+
+.titulo-vermelho{
+  color: #2a0074;
+}
+
+.titulo-amarelo{
+  color: #2a0074;
+}
+
+section{
+    max-width: 60%;
+    margin:0 auto;
+}
+
+section section{
+  width: auto;
+}
+
+h1{
+  font-size: 60px;
+  font-weight: 300;
+}
+
+h3{
+  font-size:22px;
+  font-style: italic;
+ 
+}
+
+
+p{
+  line-height: 1.5;
+  font-size: 20px;
+
+}
+
+img{
+  width: 100%;
